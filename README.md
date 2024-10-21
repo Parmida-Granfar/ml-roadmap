@@ -70,7 +70,7 @@ Understanding the Algorithms: While knowing the math and logic behind an algorit
 How to Balance Theory and Practice
 
 
-1. Start Practically:
+**1. Start Practically:**
 
 
 Step 1: Learn a few basic algorithms (e.g., Linear Regression, Decision Trees) and build simple models using Python and libraries like scikit-learn.
@@ -83,7 +83,7 @@ Step 2: Focus on using real-world datasets to get hands-on experience.
 
 
 
-2. Understand What’s Happening Behind the Scenes:
+**2. Understand What’s Happening Behind the Scenes:**
 
 
 As you implement models, take the time to learn how they work. For example, if you use Linear Regression, understand the math behind fitting a line to the data, and how loss functions like Mean Squared Error are calculated.
@@ -96,7 +96,7 @@ Learn concepts like overfitting, model evaluation metrics (like accuracy, precis
 
 
 
-3. Build Intuition:
+**3. Build Intuition:**
 
 
 Instead of relying solely on libraries, try to manually implement a few algorithms from scratch. This will help you understand their internal workings (e.g., coding a simple Linear Regression using just NumPy).
@@ -124,7 +124,8 @@ Purpose: Used for binary classification problems (i.e., where the output is a cl
 
 Common Use Cases: Spam detection, disease diagnosis.
 
-
+https://www.geeksforgeeks.org/understanding-logistic-regression/
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 
 
 
