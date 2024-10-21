@@ -19,7 +19,7 @@ Whether you come from a coding background or a more theoretical one, this guide 
 This is the roadmap I wish I had when I started. I hope it provides clarity and helps you accelerate your learning journey.
 
 
-Where Should I Start?
+## Where Should I Start?
 
 
 Starting your journey in machine learning (ML) can seem daunting—there are algorithms, math concepts, libraries, and so much more to learn. Many beginners wonder, "Should I focus on the math first or dive straight into coding and algorithms?"
