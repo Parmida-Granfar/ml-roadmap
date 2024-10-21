@@ -11,7 +11,7 @@ Essential algorithms that you should understand deeply.
 
 Key libraries you’ll use for implementing models quickly.
 
-A balanced approach to learning: You don’t need to master advanced math upfront, but you also shouldn’t rely entirely on libraries. The goal is to know how things work behind the scenes while still building projects early on.
+**A balanced approach to learning: You don’t need to master advanced math upfront, but you also shouldn’t rely entirely on libraries. The goal is to know how things work behind the scenes while still building projects early on.**
 
 
 Whether you come from a coding background or a more theoretical one, this guide will help you gain a solid foundation in machine learning—by both doing and understanding. Dive in, build models, and learn the concepts that truly matter for real-world applications.
@@ -56,7 +56,7 @@ While it's tempting to rely on libraries like scikit-learn or TensorFlow to do a
 
 2. Understanding the Algorithms: Knowing what’s happening under the hood ensures you truly grasp the mechanics and limitations of each model.
 
-#Why is balance important?
+## Why is balance important?
 
 
 Using Libraries: Tools like scikit-learn make it easy to train models with a few lines of code, but if you only rely on them, you risk becoming a "black-box" user who can't troubleshoot or customize models effectively.
