@@ -105,7 +105,7 @@ Instead of relying solely on libraries, try to manually implement a few algorith
 ## Classical Machine Learning Algorithms
 
 
-1. Linear Regression
+### 1. Linear Regression
 
 
 Purpose: Predicts a continuous target variable based on linear relationships between features.
@@ -116,7 +116,7 @@ Common Use Cases: Predicting house prices, stock prices, or any scenario where t
 
 
 
-2. Logistic Regression
+### 2. Logistic Regression
 
 
 Purpose: Used for binary classification problems (i.e., where the output is a class: 0 or 1).
@@ -129,7 +129,7 @@ Common Use Cases: Spam detection, disease diagnosis.
 
 
 
-3. Decision Trees
+### 3. Decision Trees
 
 
 Purpose: Tree-based model that splits data into subsets based on feature value tests.
@@ -142,7 +142,7 @@ Common Use Cases: Classification of customer behavior, risk analysis, and predic
 
 
 
-4. Random Forests
+### 4. Random Forests
 
 
 Purpose: An ensemble learning method that uses multiple decision trees to improve accuracy and prevent overfitting.
@@ -155,7 +155,7 @@ Common Use Cases: Image classification, fraud detection.
 
 
 
-5. Support Vector Machines (SVM)
+### 5. Support Vector Machines (SVM)
 
 
 Purpose: Used for classification by finding the hyperplane that best separates data into classes.
@@ -168,7 +168,7 @@ Common Use Cases: Text classification, face detection, bioinformatics.
 
 
 
-6. K-Nearest Neighbors (KNN)
+### 6. K-Nearest Neighbors (KNN)
 
 
 Purpose: A simple, instance-based learning algorithm that classifies data points based on their distance to the nearest neighbors.
@@ -181,7 +181,7 @@ Common Use Cases: Recommender systems, image classification.
 
 
 
-7. K-Means Clustering
+### 7. K-Means Clustering
 
 
 Purpose: An unsupervised learning algorithm that divides data into k clusters based on feature similarity.
@@ -194,7 +194,7 @@ Common Use Cases: Market segmentation, image compression.
 
 
 
-8. Principal Component Analysis (PCA)
+### 8. Principal Component Analysis (PCA)
 
 
 Purpose: A dimensionality reduction technique that transforms data into a set of uncorrelated components (principal components).
@@ -207,7 +207,7 @@ Common Use Cases: Data compression, noise reduction, visualization of high-dimen
 
 
 
-9. Naive Bayes
+### 9. Naive Bayes
 
 
 Purpose: A probabilistic classification algorithm based on Bayes' Theorem assuming independence among features.
@@ -220,7 +220,7 @@ Common Use Cases: Spam filtering, sentiment analysis, document classification.
 
 
 
-10. Gradient Boosting Machines (GBM)
+### 10. Gradient Boosting Machines (GBM)
 
 
 Purpose: An ensemble technique that builds models sequentially, each one correcting the errors of the previous.
